@@ -692,7 +692,7 @@ input, select, textarea {
 			line-height: 4.5em;
 			margin-bottom:-17em;
 			padding: 0 5em 0 0;
-			background-image: url("images/dark-arrow.svg");
+			background-image: url("dark-arrow.svg");
 			background-position: center;
 			background-repeat: no-repeat;
 			text-indent: -12em;
@@ -2257,7 +2257,7 @@ background-size: cover;
 /* Intro */
 
 	#intro {
-		background:url("../../images/home11.png");
+		background:url("home11.png");
 		background-size: cover;
 		background-attachment: fixed;
 		background-position:center;
@@ -2278,7 +2278,7 @@ background-size: cover;
 	/* Two */
 
 		#two {
-			background: url("images/overlay.png"), url("../../images/two.jpg");
+			background: url("overlay.png"), url("two.jpg");
 			background-size: 256px 256px, cover;
 			background-attachment: fixed, fixed;
 			background-position: top left, center center;
@@ -2417,4 +2417,3 @@ text-align:justify;
 ::placeholder {
   color: black;
 	font-weight:bold;
-  opacity: 1;

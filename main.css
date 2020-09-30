@@ -770,7 +770,7 @@ input, select, textarea {
 			input[type="reset"].style2.down,
 			.button.style2.down,
 			button.style2.down {
-				background-image: url("images/dark-arrow.svg");
+				background-image: url("dark-arrow.svg");
 			}
 
 /* Form */
